@@ -13,3 +13,5 @@
 * Obtener todos los registros
 * Obtener un registro
 * Crear un nuevo registro
+
+### Tests completos!
